@@ -1,1 +1,2 @@
 # odin-recipes
+Este sitio web es un recetario de cocina a modo de ejercicio para aprender html, en el que se incluyen conceptos como la estructura basica de una pagina web, introducción de imagenes y enlaces, listas ordenadas, desordenadas, parrafos y encabezados, adempas sde enrutamiento a varios archivos .html mediante rutas absolutas y relativas.
